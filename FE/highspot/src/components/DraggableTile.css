@@ -1,0 +1,13 @@
+.draggable-tile {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px;
+}
+
+.box-shaped {
+    border-radius: 5px; /* Box-shaped */
+}
+
+.oval-shaped {
+    border-radius: 50%; /* Oval-shaped */
+}
